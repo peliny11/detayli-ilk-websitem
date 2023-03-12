@@ -1,2 +1,2 @@
-# detayli-ilk-websitem
-ikinci ödev olan linkler ve görseller ile websitesi tasarlama çalışmam.
+# My First Website with More Details
+Second homework of Kodluyoruz-Patika Dev lessons.
